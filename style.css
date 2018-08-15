@@ -1,0 +1,29 @@
+body {
+  height: 100vh;
+  margin: 0px;
+}
+section {
+  height: 100%;
+}
+.home {
+  background: red;
+}
+.about {
+  background: yellow;
+}
+.contact,
+header {
+  background: black;
+}
+.faq {
+  background: orangered;
+}
+.nav-link {
+  color: white !important;
+  padding: 15px;
+  margin: 10px 0px 10px 26px;
+}
+header {
+  position: fixed;
+  width: 100%;
+}
